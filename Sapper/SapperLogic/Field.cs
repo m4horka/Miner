@@ -19,7 +19,6 @@ namespace SapperLogic
             Height = height;
             Width = width;
             BombQuantity = bombQuantity;
-            Random rnd = new Random();
             int cnt = 0;
             for(int i = 0; i < width; i++)
             {

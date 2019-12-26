@@ -26,7 +26,6 @@ namespace SapperLogic
         }
         public override void Open()
         {
-            //реализовать БАБАХ
         }
     }
 }
